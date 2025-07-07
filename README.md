@@ -1,5 +1,4 @@
 > [!IMPORTANT]
-
 > **We strive to provide ease for the student to access everything that has been taken from practical application in the JAVA language .. [Join us!](https://chat.whatsapp.com/Jvt6SP0xG6SH9nQp38GA5K?mode=r_t)**> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=All+JAVA+codes" alt="Typing SVG" /></a>
 

@@ -18,7 +18,7 @@ int[] arr ={1,2,3,5,9,10,4};
       Scanner scanner = new Scanner (System.in);
       byte age = scanner.nextByte();
         System.out.println("You Are : "+age);
-        System.out.println(name.toUpperCase());
+        System.out.println(name.toUpperCase().trim());
         
     }
     

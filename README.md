@@ -13,3 +13,9 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsApp&logoColor=white)](https://wa.me/967778088098)
 
 </div>
+
+
+
+> [!IMPORTANT]
+> **We strive to provide ease for the student to access everything that has been taken from practical application in the <p style="color:red">C#</p> language.. [Join us!](https://chat.whatsapp.com/Jvt6SP0xG6SH9nQp38GA5K?mode=r_t)**
+> 

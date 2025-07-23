@@ -4,6 +4,8 @@
  */
 package apph1;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Zeref
@@ -15,10 +17,19 @@ package apph1;
   public static void main(String[] args) {   
     // Declares constant variable
           final double PI = 3.14159;
-          double radius = 5.87;
+          double radius;
           double area;
      // Calculates the value for the area variable
-          area = PI * radius * radius;
+         
+          System.out.println("Enter radius : ");
+     
+          Scanner sc = new Scanner(System.in);
+          radius = sc.nextInt();
+          String name = "Fares";
+          int age = 300;
+          System.out.printf("name : %s and Your Age is : %d%n",name,age);
+           area = PI * radius * radius;
+          
          System.out.println("Area of the circle is: " + area);
    }
  } 

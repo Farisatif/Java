@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package javaapplication3;
+package javaapplication;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Zeref
  */
-public class JavaApplication3 {
+public class JavaApplication {
 
     /**
      * @param args the command line arguments
@@ -34,9 +34,16 @@ public class JavaApplication3 {
 //              
 
            System.out.print("Enter Your First num : ");
-      byte num1 = scanner.nextByte();
+     
+      int num3;
+      while(!scanner.hasNextInt()){
       
-        if (num1 %  2 == 0) {
+           System.out.println("Error !");
+          scanner.next();
+      }
+      
+      num3 = scanner.nextInt();
+        if (num3 %  2 == 0) {
             System.out.println("Aven");
         }else{
             System.out.println("Odd");

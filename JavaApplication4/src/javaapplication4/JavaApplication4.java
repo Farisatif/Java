@@ -17,13 +17,18 @@ public class JavaApplication4 {
         }
 
         int sum = 0;
+           int sum1 = 0;
+        
 
         for (int i = start + 1; i < end; i++) {
             if (i % 2 == 0) {
                 sum += i;
+            }else{
+             sum1 += i;
             }
         }
 
-        System.out.println("Sum of Number is : " + start + " And" + end + " is: " + sum);
+        System.out.println("Sum of Number is : " + start + " And " + end + " is: " + sum);
+         System.out.println("Sum of Number is : " + start + " And " + end + " is: " + sum1);
     }
 }

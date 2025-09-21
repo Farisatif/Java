@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppH1/AppH1.iml" filepath="$PROJECT_DIR$/AppH1/AppH1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exemple/Exemple.iml" filepath="$PROJECT_DIR$/Exemple/Exemple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication2/JavaApplication2.iml" filepath="$PROJECT_DIR$/JavaApplication2/JavaApplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication3/JavaApplication3.iml" filepath="$PROJECT_DIR$/JavaApplication3/JavaApplication3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication4/JavaApplication4.iml" filepath="$PROJECT_DIR$/JavaApplication4/JavaApplication4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication5/JavaApplication5.iml" filepath="$PROJECT_DIR$/JavaApplication5/JavaApplication5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication6/JavaApplication6.iml" filepath="$PROJECT_DIR$/JavaApplication6/JavaApplication6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication7/JavaApplication7.iml" filepath="$PROJECT_DIR$/JavaApplication7/JavaApplication7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetBeansProjects.iml" filepath="$PROJECT_DIR$/.idea/NetBeansProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstjava/firstjava.iml" filepath="$PROJECT_DIR$/firstjava/firstjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mohammed/mohammed.iml" filepath="$PROJECT_DIR$/mohammed/mohammed.iml" />
+    </modules>
+  </component>
+</project>
